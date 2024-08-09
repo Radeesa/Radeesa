@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radeesa</h1>
 <h3 align="center">I'm undergraduate at SLIIT</h3>
+<img align="right" alt="Coding" width="400" src="https://c8.alamy.com/comp/2C3XTMT/a-young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-at-home-vector-flat-illustration-2C3XTMT.jpg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=radeesa&label=Profile%20views&color=0e75b6&style=flat" alt="radeesa" /> </p>
 
 
 
