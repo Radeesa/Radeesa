@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C,C++,SQL,HTML,JS,CSS,PHP**
+- 💬 Ask me about **C, C++, SQL, HTML, JS, CSS, PHP**
 
 - 📫 How to reach me **radeesarandini3501@gmail.com**
 
